@@ -1,0 +1,43 @@
+* {
+    margin: 0
+}
+body {
+    background: black;
+}
+.primero {
+    width: 600px;
+    margin: 0 auto;
+    border: 2px solid black;
+    background: white;
+}
+.segunda {
+    background: white;
+    display: flex;
+    padding: 5px;
+    justify-content: space-between;
+}
+img {
+    width: 100%;
+}
+.tercera {
+    display: flex;
+    align-items: center;
+    padding: 10px 10px;
+}
+.tercera .cuarta:last-child {
+    margin-left: auto;
+    
+}
+p {
+    padding-bottom: 7px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.cuarta {
+    padding: 0 5px;
+}
+.brand {
+    display: flex;
+    
+
+}
